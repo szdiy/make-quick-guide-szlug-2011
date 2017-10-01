@@ -1,2 +1,4 @@
-# make-quick-guide-szlug-2011
-A quck guide on make by Mitch Davis
+## 简介
+
+2011 年 8 月 14 日 Mitch Davis 在 SZLUG 聚会上介绍 make 工具的使用。
+
